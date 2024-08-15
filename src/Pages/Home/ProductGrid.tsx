@@ -20,7 +20,7 @@ const ProductGrid: React.FC = () => {
         <h4 className='label bg-gray-300 w-48 rounded-full p-2 text-red-600 font-bold'>Checkout Our Products</h4>
         <h2 className="text-2xl font-bold mt-3">Crafted with excellent material</h2>
         </div>
-        <div className="flex space-x-4">
+        <div className="flex flex-wrap space-y-3 justify-center space-x-4">
           <button className="px-4 py-2 bg-gray-200 rounded-full text-sm font-medium">Best Seller</button>
           <button className="px-4 py-2 text-sm font-medium">Chair</button>
           <button className="px-4 py-2 text-sm font-medium">Table</button>
