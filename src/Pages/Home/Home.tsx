@@ -2,6 +2,7 @@ import Navbar from "../../Components/Navbar";
 import Branding from "./Branding";
 import FurnitureCategories from "./FurnitureCategories";
 import Hero from "./Hero";
+import ProductGrid from "./ProductGrid";
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
       <Hero/>
       <Branding/>
       <FurnitureCategories/>
+      <ProductGrid/>
     </div>
   )
 }
