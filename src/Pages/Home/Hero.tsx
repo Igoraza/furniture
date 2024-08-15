@@ -8,7 +8,7 @@ export default function Hero() {
           <h2 className="text-2xl md:text-5xl lg:text-6xl font-bold ">
             Perfect Harmony: Comfort & Style
           </h2>
-          <p className="text-lg mt-3 mb-4 max-w-md text-gray-500">
+          <p className="text-lg mt-3 mb-4 max-w-md text-gray-400">
             Explore furniture that harmoniously combines comfort and style to
             evaluate your home
           </p>
