@@ -27,7 +27,7 @@ export default function Hero() {
         </section>
       </div>
 
-      <div className="flex justify-evenly bg-white p-4 relative bottom-16 w-full lg:w-[60rem] 2xl:w-[70rem] rounded-tr-full ">
+      <div className="flex justify-evenly bg-white p-4 relative bottom-16 w-full lg:w-[60rem] 2xl:w-[70rem] lg:rounded-tr-full flex-wrap gap-4">
         <div>
             <span className="font-bold text-gray-500">Comfort</span>
             <span className="flex text-sm items-center space-x-2">
