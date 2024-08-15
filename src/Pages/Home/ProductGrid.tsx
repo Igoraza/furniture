@@ -17,7 +17,7 @@ const ProductGrid: React.FC = () => {
     <div className="container mx-auto px-4 py-8">
       <div className="flex flex-wrap gap-y-6 justify-between items-center mb-6">
         <div>
-        <h4 className='label bg-gray-300 w-48 rounded-full p-2 text-red-600 font-bold'>Checkout Our Products</h4>
+        <h4 className='label bg-gray-300 w-52 rounded-full p-2 text-red-600 font-bold text-nowrap'>Checkout Our Products</h4>
         <h2 className="text-2xl font-bold mt-3">Crafted with excellent material</h2>
         </div>
         <div className="flex flex-wrap space-y-3 justify-center space-x-4">
